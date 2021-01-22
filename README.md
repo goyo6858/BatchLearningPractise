@@ -1,0 +1,2 @@
+# BatchLearningPractise
+For learning purposes
